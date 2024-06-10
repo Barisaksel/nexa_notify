@@ -1,7 +1,8 @@
 # nexa_notify
 ### Fivem Notify Script
 
-![image](https://github.com/Barisaksel/nexa_notify/assets/71844178/98ccf58b-362d-43f4-a4fe-3589dba778bc)
+![image](https://github.com/Barisaksel/nexa_notify/assets/71844178/508b7b49-b81d-44f5-b323-44f044967f5f)
+
 
 ### This is a free and open-source FiveM notification script that provides an easy-to-use and configure resource. You can modify and use it as you wish, and share it with credit to Nexa Development
 # Help
