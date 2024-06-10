@@ -36,5 +36,5 @@ exports["nexa_notify"]:notify("success", "Nexa Notify", "Nexa Development", 7000
 Using Client Event
 
 ```
-TriggerClientEvent("nexa_notify:showNotification", "success", "Nexa Notify", "Nexa Development", 7000)
+TriggerClientEvent("nexa_notify:showNotification", source, "success", "Nexa Notify", "test", 7000)
 ```
